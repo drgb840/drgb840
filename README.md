@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drgb840
-- 👀 I’m interested in becoming a web developer with a stable work from home career.
-- 🌱 I’m currently learning how to become a web developer.
+- 👀 I’m interested in becoming a software engineer with a stable work from home career.
+- 🌱 I’m currently learning how to become a software engineer.
 - 💞️ I’m looking to collaborate on something good once I finish an actual program.
 - 📫 How to reach me - drgb840@gmail.com
 
